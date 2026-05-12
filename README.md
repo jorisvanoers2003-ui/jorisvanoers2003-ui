@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Joris van Oers 👋
 
-<!--
-**jorisvanoers2003-ui/jorisvanoers2003-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Engineering student at the University of Groningen  
+Groningen, Netherlands  
+🔗 [LinkedIn](https://linkedin.com/in/joris-van-oers-a7b420322)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project — Finger Prosthetic
+
+Designed a slim finger prosthetic for myoelectric arm prostheses as part of the **Cybathlon** university challenge.
+
+**Key innovation:** Routing wiring through the *inside* of the finger, making it significantly less bulky than existing designs.
+
+[View the project](https://github.com/jorisvanoers2003-ui/finger-prosthetic)
+
+---
+
+## Studies
+
+- Biomedical Engineering (Year 2)
+- Weighted GPA: **7.9 / 10**
+- Interests: prosthetics, medical devices, biomechanics
+
+---
+
+## Contact
+
+- jorisvanoers2003@gmail.com
