@@ -19,8 +19,7 @@ Designed a slim finger prosthetic for myoelectric arm prostheses as part of the 
 ## Studies
 
 - Biomedical Engineering (Year 2)
-- Weighted GPA: **7.9 / 10**
-- Interests: prosthetics, medical devices, biomechanics
+- Interests: prosthetics, medical devices, biomechanics, signal-to-movement
 
 ---
 
