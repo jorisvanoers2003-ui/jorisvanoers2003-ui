@@ -11,7 +11,8 @@ Groningen, Netherlands
 Designed a slim finger prosthetic for myoelectric arm prostheses as part of the **Cybathlon** university challenge.
 
 **Key innovation:** Routing wiring through the *inside* of the finger, making it significantly less bulky than existing designs.
-![Finger Prosthetic](./Assembly_finger-1.png)
+<img src="./Assembly_finger-1.png" width="400"/>
+
 [View the project](https://github.com/jorisvanoers2003-ui/finger-prosthetic)
 
 ---
