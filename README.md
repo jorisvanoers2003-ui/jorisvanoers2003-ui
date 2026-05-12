@@ -3,6 +3,7 @@
 Biomedical Engineering student at the University of Groningen  
 Groningen, Netherlands  
 🔗 [LinkedIn](https://linkedin.com/in/joris-van-oers-a7b420322)
+📄 [Download my CV](./CV.pdf)
 
 ---
 
