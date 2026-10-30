@@ -20,8 +20,9 @@ Designed a slim finger prosthetic for myoelectric arm prostheses as part of the 
 
 ## Studies
 
-- Biomedical Engineering (Year 2)
-- Interests: prosthetics, medical devices, biomechanics, signal-to-movement
+- Biomedical Engineering at University of Groningen (Year 3)
+- Health Science and Engineering Erasmus semester at ETH Zurich 
+- Interests: prosthetics, biomechanics, Humanoids and cognitive robotics
 
 ---
 
